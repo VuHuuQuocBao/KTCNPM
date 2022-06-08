@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "description": "",
+    "numberOfActors": 8500000,
+    "valueOfEachActor": 3,
+    "note": 25500000
+  },
+  {
+    "id": 2,
+    "name": "",
+    "description": "",
+    "numberOfActors": 7500000,
+    "valueOfEachActor": 5,
+    "note": 37500000
+  },
+  {
+    "id": 3,
+    "name": "",
+    "description": "",
+    "numberOfActors": 6000000,
+    "valueOfEachActor": 7,
+    "note": 42000000
+  }
+]

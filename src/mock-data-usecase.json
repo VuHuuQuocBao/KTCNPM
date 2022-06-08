@@ -1,0 +1,113 @@
+[
+  {
+    "id": 1,
+    "name": "B",
+    "description": "",
+    "numberOfActors": 25,
+    "valueOfEachActor": 230,
+    "children": [
+      {
+        "id": 2,
+        "name": "Đơn giản",
+        "description": "",
+        "numberOfActors": 4,
+        "valueOfEachActor": 20,
+        "children": [],
+        "note": ""
+      },
+      {
+        "id": 3,
+        "name": "Trung bình",
+        "description": "",
+        "numberOfActors": 21,
+        "valueOfEachActor": 210,
+        "children": [],
+        "note": ""
+      },
+      {
+        "id": 4,
+        "name": "Phức tạp",
+        "description": "",
+        "numberOfActors": 0,
+        "valueOfEachActor": 0,
+        "children": [],
+        "note": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": 2,
+    "name": "M",
+    "description": "",
+    "numberOfActors": 18,
+    "valueOfEachActor": 216,
+    "children": [
+      {
+        "id": 2,
+        "name": "Đơn giản",
+        "description": "",
+        "numberOfActors": 3,
+        "valueOfEachActor": 18,
+        "children": [],
+        "note": ""
+      },
+      {
+        "id": 3,
+        "name": "Trung bình",
+        "description": "",
+        "numberOfActors": 12,
+        "valueOfEachActor": 144,
+        "children": [],
+        "note": ""
+      },
+      {
+        "id": 4,
+        "name": "Phức tạp",
+        "description": "",
+        "numberOfActors": 3,
+        "valueOfEachActor": 54,
+        "children": [],
+        "note": ""
+      }
+    ],
+    "note": ""
+  },
+  {
+    "id": 3,
+    "name": "T",
+    "description": "",
+    "numberOfActors": 16,
+    "valueOfEachActor": 210,
+    "children": [
+      {
+        "id": 2,
+        "name": "Đơn giản",
+        "description": "",
+        "numberOfActors": 8,
+        "valueOfEachActor": 60,
+        "children": [],
+        "note": ""
+      },
+      {
+        "id": 3,
+        "name": "Trung bình",
+        "description": "",
+        "numberOfActors": 4,
+        "valueOfEachActor": 60,
+        "children": [],
+        "note": ""
+      },
+      {
+        "id": 4,
+        "name": "Phức tạp",
+        "description": "",
+        "numberOfActors": 4,
+        "valueOfEachActor": 90,
+        "children": [],
+        "note": ""
+      }
+    ],
+    "note": ""
+  }
+]

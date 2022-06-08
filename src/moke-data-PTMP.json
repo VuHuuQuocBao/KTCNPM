@@ -1,0 +1,114 @@
+[
+  {
+    "id": "I",
+    "name": "Hệ số tác động môi trường và nhóm làm việc (EFW)",
+    "description": "",
+    "numberOfActors": "",
+    "valueOfEachActor": 27.25,
+    "note": ""
+  },
+  {
+    "id": "",
+    "name": "Đánh giá cho từng thành viên",
+    "description": "",
+    "numberOfActors": "",
+    "valueOfEachActor": "",
+    "note": ""
+  },
+  {
+    "id": "1",
+    "name": "Có áp dụng qui trình phát triển phần mềm theo mẫu RUP và có hiểu biết về RUP hoặc quy trình phát triển phần mềm tương đương",
+    "description": "1,5",
+    "numberOfActors": "4.5",
+    "valueOfEachActor": "6.75",
+    "note": "1"
+  },
+  {
+    "id": "2",
+    "name": "Có kinh nghiệm về ứng dụng tương tự",
+    "description": "0,5",
+    "numberOfActors": "4",
+    "valueOfEachActor": "2",
+    "note": "0.1"
+  },
+  {
+    "id": "3",
+    "name": "Có kinh nghiệm về hướng đối tượng",
+    "description": "1",
+    "numberOfActors": "5",
+    "valueOfEachActor": "5",
+    "note": "1"
+  },
+  {
+    "id": "4",
+    "name": "Có khả năng lãnh đạo Nhóm",
+    "description": "0,5",
+    "numberOfActors": "3",
+    "valueOfEachActor": "1.5",
+    "note": "0.1"
+  },
+  {
+    "id": "5",
+    "name": "Tính chất năng động",
+    "description": "1",
+    "numberOfActors": "4",
+    "valueOfEachActor": "4",
+    "note": "1"
+  },
+  {
+    "id": "",
+    "name": "Đánh giá chung cho Dự án",
+    "description": "",
+    "numberOfActors": "",
+    "valueOfEachActor": "",
+    "note": "0"
+  },
+  {
+    "id": "6",
+    "name": "Độ ổn định của các yêu cầu",
+    "description": "2",
+    "numberOfActors": "4",
+    "valueOfEachActor": "8",
+    "note": "1"
+  },
+  {
+    "id": "7",
+    "name": "Sử dụng các nhân viên làm bán thời gian",
+    "description": "-1",
+    "numberOfActors": "0",
+    "valueOfEachActor": "0",
+    "note": "0"
+  },
+  {
+    "id": "8",
+    "name": "Dùng ngôn ngữ lập trình loại khó",
+    "description": "-1",
+    "numberOfActors": "0",
+    "valueOfEachActor": "0",
+    "note": "0"
+  },
+  {
+    "id": "II",
+    "name": "Hệ số phức tạp về môi trường (EF)",
+    "description": "",
+    "numberOfActors": "",
+    "valueOfEachActor": 0.5825,
+    "note": ""
+  },
+  {
+    "id": "III",
+    "name": "note (ES)",
+    "description": "",
+    "numberOfActors": "",
+    "valueOfEachActor": "",
+    "note": 4.2
+  },
+  {
+    "id": "IV",
+    "name": "Nội suy thời gian lao động (P)",
+    "description": 20,
+    "numberOfActors": "",
+    "valueOfEachActor": "",
+    "note": ""
+  }
+]

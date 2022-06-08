@@ -1,0 +1,122 @@
+[
+  {
+    "id": "I",
+    "name": "Hệ số KT-CN (TFW)",
+    "description": "",
+    "numberOfActors": "",
+    "valueOfEachActor": 48,
+    "note": ""
+  },
+  {
+    "id": "1",
+    "name": "Hệ thống phân tán ",
+    "description": "2",
+    "numberOfActors": " 0",
+    "valueOfEachActor": " 0",
+    "note": ""
+  },
+  {
+    "id": "2",
+    "name": "Tính chất đáp ứng tức thời hoặc yêu cầu đảm bảo thông lượng ",
+    "description": "1",
+    "numberOfActors": " 5",
+    "valueOfEachActor": " 5",
+    "note": ""
+  },
+  {
+    "id": "3",
+    "name": "Hiệu quả sử dụng trực tuyến ",
+    "description": "1",
+    "numberOfActors": " 5",
+    "valueOfEachActor": " 5",
+    "note": ""
+  },
+  {
+    "id": "4",
+    "name": "Độ phức tạp của xử lý bên trong ",
+    "description": "1",
+    "numberOfActors": " 4",
+    "valueOfEachActor": " 4",
+    "note": ""
+  },
+  {
+    "id": "5",
+    "name": "Mã nguồn phải tái sử dụng được ",
+    "description": "1",
+    "numberOfActors": " 3",
+    "valueOfEachActor": " 3",
+    "note": ""
+  },
+  {
+    "id": "6",
+    "name": "Dễ cài đặt ",
+    "description": "0,5",
+    "numberOfActors": " 5",
+    "valueOfEachActor": " 2.5",
+    "note": ""
+  },
+  {
+    "id": "7",
+    "name": "Dễ sử dụng ",
+    "description": "0,5",
+    "numberOfActors": " 5",
+    "valueOfEachActor": " 2.5",
+    "note": ""
+  },
+  {
+    "id": "8",
+    "name": "Khả năng chuyển đổi ",
+    "description": "2",
+    "numberOfActors": " 4",
+    "valueOfEachActor": " 8",
+    "note": ""
+  },
+  {
+    "id": "9",
+    "name": "Khả năng dễ thay đổi ",
+    "description": "1",
+    "numberOfActors": " 4",
+    "valueOfEachActor": " 4",
+    "note": ""
+  },
+  {
+    "id": "10",
+    "name": "Sử dụng đồng thời ",
+    "description": "1",
+    "numberOfActors": " 5",
+    "valueOfEachActor": " 5",
+    "note": ""
+  },
+  {
+    "id": "11",
+    "name": "Có các tính năng bảo mật đặc biệt",
+    "description": "1",
+    "numberOfActors": " 3",
+    "valueOfEachActor": " 3",
+    "note": ""
+  },
+  {
+    "id": "12",
+    "name": "Cung cấp truy nhập trực tiếp tới các phần mềm của các hãng thứ ba",
+    "description": "1",
+    "numberOfActors": " 4",
+    "valueOfEachActor": " 4",
+    "note": ""
+  },
+  {
+    "id": "13",
+    "name": "Yêu cầu phương tiện đào tạo đặc biệt cho người sử dụng",
+    "description": "1",
+    "numberOfActors": " 2",
+    "valueOfEachActor": " 2",
+    "note": ""
+  },
+  {
+    "id": "II",
+    "name": "Hệ số phức tạp về KT-CN (TCF)",
+    "description": " = 0,6 + (0,01 x TFW)",
+    "numberOfActors": "",
+    "valueOfEachActor": 1.08,
+    "note": ""
+  }
+]
