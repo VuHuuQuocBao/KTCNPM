@@ -55,7 +55,7 @@ function Actor() {
 
     const newFormData = { ...editFormData };
     // editFormData;
-    newFormData[fieldName] = fieldValue.slice(0, -1);
+    newFormData[fieldName] = fieldValue;
     // setTimeout(() => {
     //   newFormData[fieldName] = fieldValue.slice(0, -2);
     //   setEditFormData(newFormData);
