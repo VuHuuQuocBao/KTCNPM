@@ -15,24 +15,36 @@ const App = () => {
   return (
     <div className="app">
       <nav>
-        <ul>
-          <li>
-            <Link to="/Actor">Actor</Link>
+        <ul className="something1">
+          <li className="something2">
+            <Link className="something3" to="/Actor">
+              Actor
+            </Link>
           </li>
-          <li>
-            <Link to="/UseCase">UseCase</Link>
+          <li className="something2">
+            <Link className="something3" to="/UseCase">
+              UseCase
+            </Link>
           </li>
-          <li>
-            <Link to="/PTMP">PTMP</Link>
+          <li className="something2">
+            <Link className="something3" to="/PTMP">
+              PTMP
+            </Link>
           </li>
-          <li>
-            <Link to="/KTCN">KTCN</Link>
+          <li className="something2">
+            <Link className="something3" to="/KTCN">
+              KTCN
+            </Link>
           </li>
-          <li>
-            <Link to="/Salary">Salary</Link>
+          <li className="something2">
+            <Link className="something3" to="/Salary">
+              Salary
+            </Link>
           </li>
-          <li>
-            <Link to="/">FinalPrice</Link>
+          <li className="something2">
+            <Link className="something3" to="/">
+              FinalPrice
+            </Link>
           </li>
         </ul>
       </nav>

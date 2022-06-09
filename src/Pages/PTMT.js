@@ -170,11 +170,11 @@ function PTMP() {
           <thead>
             <tr>
               <th>TT</th>
-              <th>Loại Actor</th>
-              <th>Mô tả</th>
-              <th>Số tác nhân</th>
-              <th>Điểm của từng loại tác nhân</th>
-              <th>Ghi chú</th>
+              <th>Các hệ số tác động môi trường</th>
+              <th>Trọng số</th>
+              <th>Giá trị xếp hạng</th>
+              <th>Kết quả</th>
+              <th>Độ ổn định kinh nghiệm</th>
               <th>Actions</th>
             </tr>
           </thead>
